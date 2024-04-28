@@ -1,4 +1,4 @@
-name:Webiosa git Deploy via ftp
+name: Webiosa git Deploy via ftp
 on: push
 jobs:
   deploy:
